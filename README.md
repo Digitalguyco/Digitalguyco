@@ -11,7 +11,7 @@ I'm a Software Engineer, who is  currently hoping to land my first job!. works a
 - 🌱 I’m currently learning Reactjs, Taiwindcss, DRF, Docker, FastAPI.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer, or Devops Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing youngkhito@gmail.com.
+- 📫 You can [view my resume]('https://my.indeed.com/p/danieli-mdvzqpf') and contact me by emailing youngkhito@gmail.com.
 
 ---
 
