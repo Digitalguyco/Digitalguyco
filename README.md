@@ -19,3 +19,12 @@ I'm a Software Engineer, currently building an AI startup directed at empowering
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=digitalguyco&show_icons=true&include_all_commits=true&hide_border=true" alt="Digitalguy's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalguyco&langs_count=8&layout=compact&hide_border=true" alt="Digitalguy's GitHub stats" /> |
 | ------------- | ------------- |
+
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
