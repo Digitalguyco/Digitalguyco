@@ -1,7 +1,7 @@
 ﻿# Hello there; welcome 👋🏾
 
 
-[![BYU Idaho](https://upload.wikimedia.org/wikipedia/commons/2/22/BYUI_Logo.jpg)
+
 [![Linkedin Badge](https://img.shields.io/badge/-danielikekwem-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-ikekwem-361658238/)](https://www.linkedin.com/in/daniel-ikekwem-361658238/) [![Twitter Badge](https://img.shields.io/badge/-@khitoTM-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/khitoTM)](https://twitter.com/khitoTM)
 
 I'm a Software Engineer, currently building an AI startup directed at empowering college students with useful AI tools for work, study, finance and so many other challenges, I also work as a freelancer at [Upwork](https://upwork.com) where I help start ups and businesses to build and ship products. I'm passionate about sharing knowledge, documentation, software engineering, artifical intelligence, machine learnig, robotics and so on. 
