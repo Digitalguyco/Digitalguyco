@@ -10,7 +10,7 @@ I'm a Software Engineer, currently building an AI startup directed at empowering
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at Brigham Young University - Idaho [Bachelor of Applied Science - BASc](https://www.byui.edu/) Field of study **Computer Software Engineering**.
-- 🌱 I’m currently learning Nextjs, SwiftUI, LLMs, UI/UX.
+- 🌱 I’m currently learning SwiftUI, LLMs, UI/UX.
 - 😊 I’m looking for help with open source projects, hackathons, startups, and mid-level opportunities.
 - 💼 Job interests: Software Engineer, AI Engineer, Development Consultancy (Mid or Senior level).
 - 📫 You can [view my resume](https://my.indeed.com/p/danieli-mdvzqpf) and contact me by emailing youngkhito@gmail.com.
